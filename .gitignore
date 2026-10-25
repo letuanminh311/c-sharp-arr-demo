@@ -5,5 +5,12 @@
 [Bb]uild/
 [Ll]ogs/
 UserSettings/
-*.csproj
+*.slnx
 *.sln
+*.csproj
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.utmp/
